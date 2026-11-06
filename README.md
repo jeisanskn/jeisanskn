@@ -1,5 +1,5 @@
 
-Jeisan SASIKARAN
+# Jeisan SASIKARAN
 Étudiant en **3ème année de double-licence Mathématiques / Informatique** à **CY Tech (Cergy)**.
 Passionné par le développement, je suis **à la recherche d'un stage de développeur** (8 semaines minimum), **disponible dès le 28 avril 2027**.
 
