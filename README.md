@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Jeisan !
 
-<!--
-**jeisanskn/jeisanskn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en **3ème année de double-licence Mathématiques / Informatique** à **CY Tech (Cergy)**.
+Passionné par le développement, je suis **à la recherche d'un stage de développeur** (8 semaines minimum), **disponible dès le 28 avril 2027**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Compétences
+
+- **Langages :** Java · Python · C · HTML · PHP · CSS · Shell Linux
+- **Conception :** Programmation orientée objet · Modélisation UML · Réseaux et serveurs DNS
+- **Qualités :** Attentif · Rigoureux · Précis · Autonome
+
+**Conception :** Programmation orientée objet · Modélisation UML · Conception de réseaux et serveurs DNS
+
+---
+
+## 🚀 Projets
+
+### 🎮 Jeu vidéo RPG — `Java`
+Conception d'un RPG avec plusieurs niveaux, ennemis et classes de personnages, ainsi qu'un système de commerce et d'équipement.
+
+### 🎵 Lecteur musical — `Java`
+Développement d'un lecteur musical inspiré de VLC : récupération des métadonnées, création de playlists et lecture de musique.
+
+### ⛽ Carbutrack — `HTML` `PHP` `CSS`
+Site permettant aux automobilistes de consulter les prix du carburant actualisés dans toute la France métropolitaine, ou autour d'eux grâce à la géolocalisation.
+🔗 [jeisan.alwaysdata.net](https://jeisan.alwaysdata.net)
+
+---
+
+## 🎓 Formation
+
+| Période | Diplôme | Établissement |
+|---|---|---|
+| 2024 – aujourd'hui | Double-licence Mathématiques / Informatique | CY Tech, Cergy |
+| 2021 – 2024 | Baccalauréat général, mention Bien (spécialités mathématiques et physique) | Lycée Jean-Perrin, Saint-Ouen-l'Aumône |
+
+---
+
+## 🌍 Langues
+
+- 🇬🇧 Anglais : C1
+- 🇮🇳 Tamoul : langue maternelle
+- 🇫🇷 Français : courant
+- 🇪🇸 Espagnol : A2
+
+---
+
+## 💡 Qualités
+
+Attentif · Rigoureux · Précis · Autonome
+
+---
+
+## 🎯 Centres d'intérêt
+
+🏋️ Musculation · 🥋 Sports de combat (karaté, boxe) · 📚 Lecture · 🎬 Cinéma
+
+---
+
+## 📫 Me contacter
+
+Je suis ouvert aux opportunités de stage : n'hésite pas à me contacter via GitHub ou par mail.
+
+📧 : jeisanfra@icloud.com
