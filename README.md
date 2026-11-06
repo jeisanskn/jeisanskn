@@ -10,8 +10,7 @@ Passionné par le développement, je suis **à la recherche d'un stage de dével
 - **Langages :** Java · Python · C · HTML · PHP · CSS · Shell Linux
 - **Conception :** Programmation orientée objet · Modélisation UML · Réseaux et serveurs DNS
 - **Qualités :** Attentif · Rigoureux · Précis · Autonome
-
-**Conception :** Programmation orientée objet · Modélisation UML · Conception de réseaux et serveurs DNS
+- **Conception :** Programmation orientée objet · Modélisation UML · Conception de réseaux et serveurs DNS
 
 ---
 
@@ -29,27 +28,12 @@ Site permettant aux automobilistes de consulter les prix du carburant actualisé
 
 ---
 
-##  Formation
-
-| Période | Diplôme | Établissement |
-|---|---|---|
-| 2024 – aujourd'hui | Double-licence Mathématiques / Informatique | CY Tech, Cergy |
-| 2021 – 2024 | Baccalauréat général, mention Bien (spécialités mathématiques et physique) | Lycée Jean-Perrin, Saint-Ouen-l'Aumône |
-
----
-
 ##  Langues
 
 -  Anglais : C1
 -  Tamoul : langue maternelle
 -  Français : courant
 -  Espagnol : A2
-
----
-
-##  Qualités
-
-Attentif · Rigoureux · Précis · Autonome
 
 ---
 
